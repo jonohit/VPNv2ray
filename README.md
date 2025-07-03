@@ -1,2 +1,0 @@
-# VPNv2ray
-Ok
